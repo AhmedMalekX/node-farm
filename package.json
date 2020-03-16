@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-simple-farm-app",
+  "version": "1.0.0",
+  "description": "Simple nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Ahmed Malek",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
